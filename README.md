@@ -3,10 +3,10 @@
 
 <h2>🚀 Skills & Technologies</h2>
 <ul>
-  <li><b>Languages:</b> Swift, Kotlin, Java, JavaScript, HTML, CSS</li>
-  <li><b>Frameworks & Libraries:</b> SwiftUI, UIKit, Jetpack Compose, React Native, Vue.js</li>
-  <li><b>Tools:</b> Xcode, Android Studio, Git, Sourcetree, Bitbucket, Firebase, MySQL</li>
-  <li><b>Other:</b> UX/UI Design, SDLC, IT Business Analysis, Version Control</li>
+  <li><b>Languages:</b> Swift, Kotlin, JavaScript, HTML, CSS, Python, C#, Java</li>
+  <li><b>Frameworks & Libraries:</b> SwiftUI, UIKit, React Native, Node.js, Vue.js</li>
+  <li><b>Tools:</b> Xcode, Android Studio, Visual Studio Code, IntelliJ, Git, Sourcetree, Bitbucket, Jira, Azure Boards, SQL Server, Firebase, MongoDB, SQLite</li>
+  <li><b>Other:</b> SDLC, RESTful APIs, IT Business Analysis, Version Control, Workflow, SharePoint</li>
 </ul>
 
 <h2>🔗 Let's Connect!</h2>
