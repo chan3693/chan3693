@@ -6,7 +6,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://sites.google.com/view/sheungkit-portfolio/home" target="_blank">
-  🔗
+  <b>Protfolio</b>
 </a>
 <a href="mailto:chansk3693@gmail.com" target="_blank">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
