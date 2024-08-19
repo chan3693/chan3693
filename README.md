@@ -13,8 +13,9 @@
 <a href="https://www.linkedin.com/in/simon-chan-740422185/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://sites.google.com/view/sheungkit-portfolio/home" target="_blank">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+<a href="https://chan3693.github.io/portfolio/" target="_blank">
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sitepoint.svg" />
+  
 </a>
 <a href="mailto:chansk3693@gmail.com" target="_blank">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
